@@ -1,0 +1,33 @@
+/*
+  Override default refinery application CSS below.
+  Formatting applies to all frontend.
+*/
+
+
+body { background-color:#E8D1B6;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background: url(/images/background.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        margin: auto;
+        margin-top:0px;
+        margin-bottom:0px;
+        width: 960px;
+        min-height: 680x;
+}
+
+        /*-moz-background-clip: border;*/
+        /*-moz-background-origin: padding;*/
+        /*-moz-background-size: auto auto;*/
+        /*background-attachment: scroll;*/
+        /*background-color: transparent;*/
+        /*-moz-background-clip: border;
+
+        /*background-position: center bottom;*/
+        /*background-repeat: no-repeat;*/
+        /*margin-bottom: 0px;*/
+        /*min-height: 680px*/
+        }

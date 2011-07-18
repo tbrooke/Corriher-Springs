@@ -1,0 +1,17 @@
+/*
+  Override default refinery homepage styles here.
+  These only apply to the homepage of your site.
+*/
+
+body {
+    background-color: #E8D1B6;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-image: url(/images/corriher-springs.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 0px;
+    min-height: 680px;
+}
